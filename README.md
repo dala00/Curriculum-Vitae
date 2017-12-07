@@ -25,7 +25,7 @@ Elixir1.5, Phoenix1.3, Anguar2, Node.js, Vue, Cocos2d-x(JavaScript), Androidア�
 
 ### 業務経験有り
 
-PostgreSQL, C++, VC#.NET, VB.NET, Ruby on Rails, Objective-C, Perl, 法人会計
+Go, PostgreSQL, C++, VC#.NET, VB.NET, Ruby on Rails, Objective-C, Perl, 法人会計
 
 ### 使用経験有り
 
