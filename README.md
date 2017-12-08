@@ -122,6 +122,10 @@ Elixir1.5, Phoenix1.3, Vue2, MySQL5.7, GCE
 
 PHP5.6, CakePHP3, MySQL5.6
 
+### Yahoo! mobageにてRPG
+
+Cocos2d-x(JavaScript), PHP5.6, CakePHP2
+
 ### [こども向けアプリ等](https://play.google.com/store/apps/developer?id=Alphabrend)
 
 簡易なりきりゲーム
@@ -130,7 +134,6 @@ Cocos2d-x(JavaScript)
 
 ### その他
 
-* Yahoo! mobageにてRPGリリース
 * AndroidアプリにてRPGリリース
 * mixアプリいくつかリリース
 * PHP4フレームワークちいたんリリース
