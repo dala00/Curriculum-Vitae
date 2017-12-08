@@ -101,3 +101,38 @@ PHP5.6, CakePHP2, MySQL5.5, jQuery
 * Flash
 
 等
+
+## 自作アプリケーション
+
+### [Bill Builder](https://bill.alphabrend.com)
+
+請求書作成サービス
+
+Elixir1.5, Phoenix1.2, MySQL5.7, GCE
+
+### [Copying Live](https://live.alphabrend.com)
+
+サイボウズLiveのコピー企画
+
+Elixir1.5, Phoenix1.3, Vue2, MySQL5.7, GCE
+
+### [ひとりもくもく会](https://mokumoku.alphabrend.com)
+
+プログラミング作業ログサービス
+
+PHP5.6, CakePHP3, MySQL5.6
+
+### [こども向けアプリ等](https://play.google.com/store/apps/developer?id=Alphabrend)
+
+簡易なりきりゲーム
+
+Cocos2d-x(JavaScript)
+
+### その他
+
+* Yahoo! mobageにてRPGリリース
+* AndroidアプリにてRPGリリース
+* mixアプリいくつかリリース
+* PHP4フレームワークちいたんリリース
+
+等
