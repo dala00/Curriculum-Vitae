@@ -48,7 +48,7 @@ Python, Django, React, Java, Arduino, PIC
 
 #### 開発環境
 
-PHP7, Laravel5, Docker, GitHub Flow, Ruby on Rails
+PHP7, Laravel5, PHPUnit, Docker, GitHub Flow, Ruby on Rails
 
 ### 2008/6〜:モールシステム開発
 
@@ -80,7 +80,7 @@ DBテーブル30程
 
 #### 開発環境
 
-PHP5.6, CakePHP3, MySQL5.6, jQuery
+PHP5.6, CakePHP3, PHPUnit, MySQL5.6, jQuery
 
 ### 2015/10〜2016/3:求人サイト開発
 
@@ -120,7 +120,7 @@ Elixir1.5, Phoenix1.3, Vue2, MySQL5.7, GCE
 
 プログラミング作業ログサービス
 
-PHP5.6, CakePHP3, MySQL5.6
+PHP5.6, CakePHP3, MySQL5.6, Angular2, wercker
 
 ### Yahoo! mobageにてRPG
 
