@@ -122,6 +122,10 @@ Elixir1.5, Phoenix1.3, Vue2, MySQL5.7, GCE
 
 PHP5.6, CakePHP3, MySQL5.6, Angular2, wercker
 
+### [はてなブックマーク増加チェッカー](https://hatena.alphabrend.com)
+
+Elixir1.5, Phoenix1.3, Vue, MySQL5.7, GCE
+
 ### Yahoo! mobageにてRPG
 
 Cocos2d-x(JavaScript), PHP5.6, CakePHP2
